@@ -1,5 +1,4 @@
 # Password-Generator
-Password Generator
 
 English : A Python-based Software Automatically Generates Passwords And Writes These Passwords To A File.
 
